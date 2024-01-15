@@ -4,7 +4,7 @@ HDD'ler dijital verileri bilgisayarlarda saklar. HDD'ler verileri dönen bir dö
 
 HDD, Manyetik diskler üzerine veri depolar, yüksek kapasiteli ve ekonomik olup, mekanik parçalar içerir, ancak okuma/yazma hızları yavaştır.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/fb0724eb-3f1f-457f-b83e-485b6535a8de/56227bb7-3696-41db-8dbc-3d69642a71b8/Untitled.png)
+![Untitled](https://github.com/efekanacar/Digital.Forensics/blob/main/Untitled.png)
 
 - **Üst Kapak Bağlantı Noktaları:** Üst kapağın, sabit diski bilgisayara bağlamak için kullanılan bağlantı noktalarıdır.
 - **Gövde:** Sabit diskin ana gövdesidir. Sabit diskin diğer tüm parçalarını içerir.
