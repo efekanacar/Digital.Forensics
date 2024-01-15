@@ -1,4 +1,4 @@
-*** HARDDİSK ***
+** HARDDİSK **
 
 HDD'ler dijital verileri bilgisayarlarda saklar. HDD'ler verileri dönen bir döner tablaya manyetik olarak kaydeder ve hareketli parçalar içerir; dolayısıyla fiziksel hasara açıktır.
 
